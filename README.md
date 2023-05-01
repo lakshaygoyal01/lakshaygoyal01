@@ -1,4 +1,4 @@
-                                    # Hii👋, I'm Lakshay Goyal
+<h1 align="center">Hi 👋, I'm Lakshay Goyal</h1>
 - 👋 Hi, I’m Lakshay Goyal
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...React Native
