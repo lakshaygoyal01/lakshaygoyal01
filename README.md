@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning **Web 3 and Blockchain Development**
 
 - 💬 Ask me about **Javascript, React, ReactNative**
+
+- 📌 Pinned Below are the major projects that I have worked upon
   
 - 🧑🏻‍💻 Check out My Personal Portfolio :  <a href="https://lakshaygoyal.vercel.app/"> lakshaygoyal.me</a>
 
