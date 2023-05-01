@@ -1,17 +1,15 @@
-<h1 align="center" font="yellow">Hi 👋, I'm Lakshay Goyal</h1>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7AB0A&center=true&width=461&lines=I'm+a+Fullstack+Developer;Guy-who-loves-Coffee.tsx;%3CButLovesToCodeMore+%2F%3E" alt="Typing SVG" /></a></h3>
+<h1 align="center">Hi 👋, I'm Lakshay Goyal</h1>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7AB0A&center=true&width=461&lines=I'm+a+FrontEnd+Developer;Guy-who-loves-Coffee.tsx;%3CButLovesToCodeMore+%2F%3E" alt="Typing SVG" /></a></h3>
 
-- 😃 Top Rated Freelancer on <a href='https://www.upwork.com/freelancers/~0191ee67fea880bf07' target="_blank">Upwork<a/>
+- 🌱 I’m currently learning **Web 3 and Blockchain Development**
 
-- 🌱 I’m currently learning **React Native**
-
-- 💬 Ask me about **React, Next, MERN STACK**
+- 💬 Ask me about **Javascript, React, ReactNative**
   
-- 🧑🏻‍💻 Check out My Personal Portfolio :  
+- 🧑🏻‍💻 Check out My Personal Portfolio :  <a href="https://lakshaygoyal.vercel.app/"> lakshaygoyal.me</a>
 
-- 📫 How to reach me **Discord: Bharat#2087**
+- 📫 How to reach me **Email: lakshaygoyal020@gmail.com**
 
-- ⚡ Fun fact **Yeah There's Nothing Fun >_< :( **
+- ⚡ "Remember, Every website was a blank page once, so don't be afraid to start creating!"
 
 
 <!---
