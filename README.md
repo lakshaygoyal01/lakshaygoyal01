@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lakshay Goyal</h1>
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=F7AB0A&center=true&width=461&lines=I'm+a+FrontEnd+Developer;Guy-who-loves-Coffee.tsx;%3CButLovesToCodeMore+%2F%3E" alt="Typing SVG" /></a></h3>
 
-<img  src="./image_processing20210906-6043-bb2lip.gif" height="290px" align="center" />
+<div align="center"><img  src="./image_processing20210906-6043-bb2lip.gif" height="290px"  /></div>
 
 - 🌱 I’m currently learning **Web 3 and Blockchain Development**
 
