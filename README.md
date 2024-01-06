@@ -9,7 +9,7 @@
 
 - 📌 Pinned Below are the major projects that I have worked upon
   
-- 🧑🏻‍💻 Check out My Personal Portfolio :  <a href="https://lakshaygoyal.vercel.app/"> lakshaygoyal.me</a>
+- 🧑🏻‍💻 Check out My Personal Portfolio :  <a href="https://lakshaygoyal.me/"> lakshaygoyal.me</a>
 
 - 📫 How to reach me **Email: lakshaygoyal020@gmail.com**
 
