@@ -15,8 +15,7 @@
 
 - ⚡ "Remember, Every website was a blank page once, so don't be afraid to start creating!"
 
-
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshaygoyal01&show_icons=true&theme=dark&locale=en&layout=compact" alt="" /></td>
